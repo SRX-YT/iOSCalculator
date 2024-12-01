@@ -1,1 +1,1 @@
-# iOS Calculator in linux, using imGUI
+# iOS Calculator
